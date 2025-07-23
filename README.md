@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/e506ba5f-13d1-49e9-8785-a370a1efbca6" alt="Sample Image" width="600" height="450"> 
+<img src="https://github.com/user-attachments/assets/e506ba5f-13d1-49e9-8785-a370a1efbca6" alt="Sample Image" width="600" height="450">  &nbsp; &nbsp; <a href="https://orlygur-arnalds.github.io/blog/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">blog</a>
+
 
 
 
@@ -36,11 +37,7 @@ Contact: olli@post-dreifing.is
 
 <a href="https://www.instagram.com/olli_steini/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">instagram</a> 
 &nbsp; &nbsp; &nbsp; <a href="https://soundcloud.com/rlygur-steinar-arnalds" style="color: black; text-decoration: underline;text-decoration-style: dotted;">soundcloud</a>
-&nbsp; &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
-
-
-<a href="https://orlygur-arnalds.github.io/blog/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">blog</a>
-
+ &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
 
 
 
