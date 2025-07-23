@@ -43,11 +43,9 @@ Contact: olli@post-dreifing.is
 
 
 
-<body style="background-color:Olive;">
+<body style="background-color:DarkKhaki;">
 
 
-
-Dark khaki
 
 
 
