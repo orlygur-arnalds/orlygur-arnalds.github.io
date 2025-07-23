@@ -11,7 +11,7 @@ Contact: olli@post-dreifing.is
 
 
 
-body {background-color: coral;}
+<body style="background-color:powderblue;">
 
 
 
