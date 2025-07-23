@@ -14,8 +14,6 @@
   record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
 </span>
 <br>
-<br>
-<br>
 <span style="color:black">
 He is a member of the band's 
 <a href="https://peephole.is/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject</a> ,
@@ -25,11 +23,7 @@ with these projects he has released albums on acclaimed labels such as
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">SVBKVLT</a> ,
 <a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">SUPERPANG</a> and
 <a href="https://mengi.bandcamp.com/album/mosi-milli-t-nna" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Mengi records</a> 
-
-
-
-
-
+as well as playing festivals such as Primavera Sound, Unsound, Norberg Festival, All Ears, By:Larm, Roaskilde and local festivals Extreme Chill and Iceland Airwaves.
 
 </span>
 
