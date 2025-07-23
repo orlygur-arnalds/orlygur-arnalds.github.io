@@ -1,11 +1,16 @@
 <img src="https://github.com/user-attachments/assets/e506ba5f-13d1-49e9-8785-a370a1efbca6" alt="Sample Image" width="600" height="450">
 
-<iframe width="100%" height="166" 
-        scrolling="no" frameborder="no" allow="autoplay" 
-        src="https://soundcloud.com/rlygur-steinar-arnalds/no_input">
-</iframe>
-
-
+<section id="music">
+  <h2>Listen</h2>
+  <iframe 
+    width="100%" 
+    height="166" 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay" 
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rlygur-steinar-arnalds/no_input&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+  </iframe>
+</section>
 
 ## Bio
 <span style="color:black">
