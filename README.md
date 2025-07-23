@@ -35,8 +35,8 @@ Contact: olli@post-dreifing.is
 
 <a href="https://www.instagram.com/olli_steini/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">instagram</a> 
 &nbsp; &nbsp; &nbsp; <a href="https://soundcloud.com/rlygur-steinar-arnalds" style="color: black; text-decoration: underline;text-decoration-style: dotted;">soundcloud</a>
- &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
-
+&nbsp; &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
+&nbsp; &nbsp; &nbsp; <a href="https://www.youtube.com/@ollisteini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">youtube</a>
 
 
 <body style="background-color:DarkKhaki;">
