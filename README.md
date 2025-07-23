@@ -17,6 +17,7 @@ Contact: olli@post-dreifing.is
 &nbsp; &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
 
 
+<a href="https://orlygur-arnalds.github.io/blog/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">blog</a>
 
 
 
