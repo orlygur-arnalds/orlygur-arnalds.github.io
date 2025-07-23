@@ -1,20 +1,8 @@
 <img src="https://github.com/user-attachments/assets/e506ba5f-13d1-49e9-8785-a370a1efbca6" alt="Sample Image" width="600" height="450">
 
-<section id="music">
-  <h2>Listen</h2>
-  <iframe 
-    width="100%" 
-    height="166" 
-    scrolling="no" 
-    frameborder="no" 
-    allow="autoplay" 
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rlygur-steinar-arnalds/no_input&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
-  </iframe>
-</section>
-
 ## Bio
 <span style="color:black">
-  Örlygur Steinar Arnalds is a musician bfrom Iceland. For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing       event's, releasing music and doing sound. He is a founding memeber of the art collective and label 
+  Örlygur Steinar Arnalds is a musician from Iceland For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing event's, releasing music and doing sound. He is a founding memeber of the art collective and label 
   <a href="https://post-dreifing.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">post-dreifing</a>  
   and has participated in organizening events and releases with 
   <a href="https://raskcollective.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">RASK</a> 
