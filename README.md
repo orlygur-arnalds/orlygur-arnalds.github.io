@@ -13,9 +13,10 @@
   <a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> 
   record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
 </span>
-
-
-
+<br>
+<br>
+<br>
+<br>
 <span style="color:white">
   Örlygur Steinar Arnalds is a musician bfrom Iceland. For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing       event's, releasing music and doing sound. He is a founding memeber of the art collective and label 
   <a href="https://post-dreifing.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">post-dreifing</a>  
