@@ -13,7 +13,10 @@
   <a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> 
   record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
 </span>
+
 <br>
+<br>
+
 <span style="color:black">
 He is a member of the band's 
 <a href="https://peephole.is/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject</a> ,
