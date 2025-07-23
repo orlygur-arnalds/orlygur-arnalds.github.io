@@ -7,7 +7,7 @@ Contact: olli@post-dreifing.is
 
 [instagram](https://www.instagram.com/olli_steini/) &nbsp; &nbsp; &nbsp; [soundcloud](https://soundcloud.com/rlygur-steinar-arnalds) &nbsp; &nbsp; &nbsp;[mastadon](https://post.lurk.org/@olli_steini)
 
-<a href="https://www.instagram.com/olli_steini/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">instagram</a>
+<a href="https://www.instagram.com/olli_steini/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">instagram</a> &nbsp; &nbsp; &nbsp; <a href="https://soundcloud.com/rlygur-steinar-arnalds" style="color: black; text-decoration: underline;text-decoration-style: dotted;">soundcloud</a> &nbsp; &nbsp; &nbsp; <a href="https://post.lurk.org/@olli_steini" style="color: black; text-decoration: underline;text-decoration-style: dotted;">mastadon</a>
 
 
 
