@@ -43,10 +43,11 @@ Contact: olli@post-dreifing.is
 
 
 
-<body style="background-color:DarkKhaki;">
+<body style="background-color:Olive;">
 
 
 
+Dark khaki
 
 
 
