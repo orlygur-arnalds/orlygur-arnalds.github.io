@@ -7,9 +7,7 @@
 Contact: olli@post-dreifing.is
 
 [instagram](https://www.instagram.com/olli_steini/)
-
 [sounds](https://soundcloud.com/rlygur-steinar-arnalds)
-
 [mastadon](https://post.lurk.org/@olli_steini)
 
 
