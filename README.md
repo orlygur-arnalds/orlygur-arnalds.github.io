@@ -4,11 +4,12 @@
 
 ### Örlygur Steinar Arnalds is a musician from Reykjavík. For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing event's, releasing music and doing sound.
 
-Contact: olli@post-dreifing.is
-
 [instagram](https://www.instagram.com/olli_steini/)
 [sounds](https://soundcloud.com/rlygur-steinar-arnalds)
 [mastadon](https://post.lurk.org/@olli_steini)
+
+Contact: olli@post-dreifing.is
+
 
 
 
