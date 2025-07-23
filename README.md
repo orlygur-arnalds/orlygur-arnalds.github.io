@@ -2,7 +2,7 @@
 
 ## Reykjavík, Iceland
 
-### Örlygur Steinar Arnalds is a musician from Reykjavík. For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing event's, releasing music and doing sound.
+##### Örlygur Steinar Arnalds is a musician from Reykjavík. For the last 8 year's he has been an active member in the DIY/DIT music scene in Reykjavík, organizeing event's, releasing music and doing sound.
 
 [instagram](https://www.instagram.com/olli_steini/)
 [sounds](https://soundcloud.com/rlygur-steinar-arnalds)
