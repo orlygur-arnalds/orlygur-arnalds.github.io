@@ -24,10 +24,8 @@ with these projects he has released albums on acclaimed labels such as
 <a href="https://mengi.bandcamp.com/album/mosi-milli-t-nna" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Mengi records</a> 
 as well as playing festivals such as Primavera Sound, Unsound, Norberg Festival, All Ears, By:Larm, Roaskilde and local festivals Extreme Chill and Iceland Airwaves.
 </span>
-
 <br>
 <br>
-
 Contact: olli@post-dreifing.is
 
 <a href="https://www.instagram.com/olli_steini/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">instagram</a> 
