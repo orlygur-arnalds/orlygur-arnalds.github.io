@@ -3,15 +3,14 @@
 
 ## Bio
 <span style="color:black">
-  Örlygur Steinar Arnalds is an Icelandic musician whose work spans experimental instrumental composition, electroacoustic music, free improvisation, and club music. Primarily active in bands and collaborative projects, he occasionally works solo.
+Örlygur Steinar Arnalds is an Icelandic musician whose work spans experimental instrumental composition, electroacoustic music, free improvisation, and club music. Primarily active in bands and collaborative projects, he occasionally works solo.
 For the past eight years, he has been an active member of Reykjavík’s DIY/DIT music scene—organizing events, releasing music, and doing sound He is a founding member of the art collective and label
-  <a href="https://post-dreifing.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">post-dreifing</a>  
+<a href="https://post-dreifing.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">post-dreifing</a>  
   and has participated in organizing events and releases with
-  <a href="https://raskcollective.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">RASK</a> 
-  collective, 
-  <a href="https://agalma.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Agalma</a> label and 
-  <a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> 
-  record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
+<a href="https://raskcollective.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">RASK</a> 
+collective, 
+<a href="https://agalma.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Agalma</a> label and 
+<a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
 </span>
 <br>
 <br>
