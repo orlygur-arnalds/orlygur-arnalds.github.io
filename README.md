@@ -10,7 +10,8 @@ For the past eight years, he has been an active member of Reykjavík’s DIY/DIT
 <a href="https://raskcollective.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">RASK</a> 
 collective, 
 <a href="https://agalma.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Agalma</a> label and 
-<a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> record store/label. In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
+<a href="https://smekkleysa.net/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Smekkleysa</a> record store/label. 
+In 2022 he graduated from the Iceland University of the Arts with a BA in composition and new media.
 </span>
 <br>
 <br>
