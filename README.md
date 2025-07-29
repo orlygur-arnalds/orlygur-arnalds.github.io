@@ -6,6 +6,8 @@
 <a href="https://orlygur-arnalds.github.io/works-releases/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">selected works/releases</a>
 <br>
 <br>
+## bio
+
 <span style="color:black">
 Örlygur Steinar Arnalds is an Icelandic musician whose work spans experimental instrumental composition, electroacoustic music, free improvisation, and club music. Primarily active in bands and collaborative projects, he occasionally works solo.
 For the past eight years, he has been an active member of Reykjavík’s DIY/DIT music scene—organizing events, releasing music, and doing sound He is a founding member of the art collective and label
