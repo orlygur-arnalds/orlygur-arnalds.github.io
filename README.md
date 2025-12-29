@@ -9,8 +9,10 @@
 
 
 
-<a href="https://orlygur-arnalds.github.io/works-releases/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">selected works/releases</a>
+<h2><a href="https://orlygur-arnalds.github.io/works-releases/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">selected works/releases</a>
 <br>
+<h2><a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair" style="color: black; text-decoration: underline;text-decoration-style: dotted;">new album out on self repair
+</a>
 <br>
 <br>
 <h1>bio</h1>
