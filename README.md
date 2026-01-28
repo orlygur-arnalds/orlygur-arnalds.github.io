@@ -8,15 +8,14 @@
 
 <h2><a href="https://orlygur-arnalds.github.io/works-releases/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">selected works/releases</a>
 <br>
-<h4><a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair" style="color: black; text-decoration: underline;text-decoration-style: dotted;">new album out on self repair
+<h4><a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair" style="color: black; text-decoration: underline;text-decoration-style: dotted;">new album out on self repair</a> 
 
 <br>
 <br>
 <h1>bio</h1>
 <br>
 <span style="color:black">
-Örlygur Steinar Arnalds is an Icelandic musician whose work spans experimental instrumental composition, electroacoustic music, free improvisation, and club music. Primarily active in bands and collaborative projects, he occasionally works solo.
-For the past eight years, he has been an active member of Reykjavík’s DIY/DIT music scene—organizing events, releasing music, and doing sound He is a founding member of the art collective and label
+Örlygur Steinar Arnalds is an Icelandic musician whose work spans over everything from experimental instrumental composition, electroacoustic music, free improvisation, and club music. For the past eight years, he has been an active member of Reykjavík’s DIY/DIT music scene—organizing events, releasing music, and doing sound engineering. He is a founding member of the art collective and label
 <a href="https://post-dreifing.bandcamp.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">post-dreifing</a>  
   and has participated in organizing events and releases with
 <a href="https://raskcollective.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">RASK</a> 
@@ -36,7 +35,7 @@ With these projects, he has released albums on acclaimed labels such as
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">SVBKVLT</a> ,
 <a href="https://glupsk.bandcamp.com/album/beyond-happy" style="color: black; text-decoration: underline;text-decoration-style: dotted;">SUPERPANG</a> and
 <a href="https://mengi.bandcamp.com/album/mosi-milli-t-nna" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Mengi records</a> 
-as well as playing festivals such as Primavera Sound, Unsound, Norberg Festival, All Ears, By:Larm, Roskilde and local festivals Extreme Chill and Iceland Airwaves.
+as well as playing festivals such as Primavera Sound, Unsound, Norberg Festival, All Ears, By:Larm, Roskilde and local festivals Extreme Chill and Iceland Airwaves. 
 </span>
 <br>
 <br>
