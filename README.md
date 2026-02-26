@@ -39,7 +39,7 @@ as well as playing festivals such as Primavera Sound, Unsound, Norberg Festival,
 </span>
 <br>
 <br>
-Drawn to the physical process of how sound is produced, he embraces playful, process-driven methods—favoring connection over structure and allowing the production of sound to shape its form.
+Drawn to the physical process of how sound is produced, he is interested in its effects, social and cultural relations, and the bodily reactions it evokes. He embraces playful, process-driven methods—favoring connection over structure and allowing the production of sound itself to shape its form.
 <br>
 <br>
 Contact: olli@post-dreifing.is
