@@ -63,7 +63,7 @@ nav.back a:focus-visible {
 
 .hero {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 1.5rem;
   min-height: 92vh;
